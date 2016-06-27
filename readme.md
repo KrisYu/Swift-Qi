@@ -4,3 +4,6 @@
 
 写下一些学习感想，或改写ObjC文章为Swift.
 
+
+
+[AVFoundation_视频流处理](https://github.com/KrisYu/Swift-Qi/blob/master/AVFoundation_视频流处理%20Swift/iOS学习：AVFoundation%20视频流处理%20Swift.md)
