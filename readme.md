@@ -1,4 +1,4 @@
-###Readme
+###Swift Notes
 
 因为在学Swift的过程中，觉得有很多文章帮助很大，减少弯路，不过一些资料只有ObjC版本.
 
@@ -6,4 +6,4 @@
 
 
 
-[AVFoundation_视频流处理](https://github.com/KrisYu/Swift-Qi/blob/master/AVFoundation_视频流处理%20Swift/iOS学习：AVFoundation%20视频流处理%20Swift.md)
+- [AVFoundation_视频流处理](https://github.com/KrisYu/Swift-Qi/blob/master/AVFoundation_视频流处理%20Swift/iOS学习：AVFoundation%20视频流处理%20Swift.md)
