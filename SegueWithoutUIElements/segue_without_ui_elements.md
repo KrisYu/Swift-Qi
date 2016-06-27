@@ -14,4 +14,4 @@
 
 其实Apple很多时候会自己推断这个Animation/Segue应该怎样做，sometimes do what you do, leave the rest infered by Apple.
 
-简单Demo一个.
+其实完全可以不用[Demo](https://github.com/KrisYu/Swift-Qi/tree/master/SegueWithoutUIElementsDemo).
